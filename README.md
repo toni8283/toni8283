@@ -64,5 +64,5 @@ Full stack e-commerce application with product browsing and dynamic data handlin
 ## 📫 Connect With Me
 
 GitHub: https://github.com/toni8283  
-LinkedIn: (add your linkedin link)  
+LinkedIn: https://www.linkedin.com/in/toni-blair-a61b57297/  
 Email: toniblair909@kgpian.iitkgp.ac.in
