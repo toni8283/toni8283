@@ -1,4 +1,7 @@
 # Hi, I'm Toni Blair 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hello+World!+🌍;I'm+[Your+Name];Building+the+future+with+code" alt="Typing SVG" />
+</div>
 
 🎓 3rd Year Undergraduate Student at **IIT Kharagpur**  
 📚 Dual Degree: **Ocean Engineering & Naval Architecture**  
