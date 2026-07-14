@@ -13,7 +13,7 @@
 │  <span color="#58A6FF">clg:</span>       Linux user @ IIT Kharagpur                          │
 │  <span color="#58A6FF">Host:</span>      Dual Degree system                                  │
 │  <span color="#58A6FF">Kernel:</span>    Full Stack Developer v3.0 | AI Enthusiast v3.4      │
-│  <span color="#58A6FF">Uptime:</span>    3rd Year Running (compiling...)                     │
+│  <span color="#58A6FF">Uptime:</span>    4th Year Running (compiling...)                     │
 │                                                                 │
 │  <span color="#FFA657">Languages.Programming:</span>  Java · C · C++ · JavaScript · Python   │
 │  <span color="#FFA657">Languages.Markup:</span>       HTML · CSS · SQL                       │
