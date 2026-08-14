@@ -25,8 +25,8 @@
 │  <span color="#79C0FF">Currently.Learning:</span>     DSA · Advanced Full Stack · ML/AI      │
 │                                                                 │
 │  <span color="#FF7B72">Contact:</span>    9234261447                                         │
-│  <span color="#FF7B72">Email:</span>      toniblair909@kgpian.iitkgp.ac.in                   │
-│  <span color="#FF7B72">LinkedIn:</span>   linkedin.com/in/mrtoniblair                        │
+│  <span color="#FF7B72">Email:</span>      toniblair909@gmail.com                   │
+│  <span color="#FF7B72">LinkedIn:</span>   linkedin.com/in/mrtonyblair                        │
 │  <span color="#FF7B72">GitHub:</span>     github.com/toni8283                                │
 └─────────────────────────────────────────────────────────────────┘
 </pre>
