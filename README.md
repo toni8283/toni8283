@@ -31,7 +31,3 @@
 └─────────────────────────────────────────────────────────────────┘
 </pre>
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=toni8283&theme=github-dark&hide_border=true&bg_color=0D1117&color=7EE787&line=58A6FF&point=FFA657" alt="Contribution Graph" />
-</p>
